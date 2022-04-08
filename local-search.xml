@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>个人博客complete</title>
-    <link href="/2022/04/08/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2complete/"/>
-    <url>/2022/04/08/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2complete/</url>
+    <title>my first blog</title>
+    <link href="/2022/04/08/my-first-blog/"/>
+    <url>/2022/04/08/my-first-blog/</url>
     
-    <content type="html"><![CDATA[<p>​        今天搭建了个人博客，终于可以在自己的小窝说话了😎</p><p>主要用来记录学习历程，放一些想放的东西。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客终于部署好了😎"><a href="#博客终于部署好了😎" class="headerlink" title="博客终于部署好了😎"></a>博客终于部署好了😎</h1><p>很开心</p><p>可以发布一些想了很久的东西了</p><p>nice</p>]]></content>
     
     
     
@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2022/04/08/my-first-blog/"/>
-    <url>/2022/04/08/my-first-blog/</url>
+    <title>个人博客complete</title>
+    <link href="/2022/04/08/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2complete/"/>
+    <url>/2022/04/08/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2complete/</url>
     
-    <content type="html"><![CDATA[<h1 id="博客终于部署好了😎"><a href="#博客终于部署好了😎" class="headerlink" title="博客终于部署好了😎"></a>博客终于部署好了😎</h1><p>很开心</p><p>可以发布一些想了很久的东西了</p><p>nice</p>]]></content>
+    <content type="html"><![CDATA[<p>​        今天搭建了个人博客，终于可以在自己的小窝说话了😎</p><p>主要用来记录学习历程，放一些想放的东西。</p>]]></content>
     
     
     
